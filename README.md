@@ -1,3 +1,3 @@
 # Food-Classification
 
-The dataset can be found on [Kaggle](https://github.com/TheEyesChico/Food-Classification.git)
+The dataset can be found on [Kaggle](https://www.kaggle.com/l33tc0d3r/indian-food-classification/)

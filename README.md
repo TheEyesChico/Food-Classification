@@ -31,3 +31,24 @@ Workflow of things are as below:
 |  10  | Jalebi        | 20    | Samosa        |
 
 ## Web App - Flask
+
+It is contained in <i>app.py</i>
+
+### <li> User Interface </li>
+
+<ol type="i">
+<li>Image can be browsed from laptop locally after downloading it.</li>
+<li>The web page previews the same image selected by user.</li>
+<li>Hit prediction button to display the food item.</li>
+<br>
+<img src="Predictions/pred-11.jpeg" width="60%">
+</ol>
+
+### <li> Predictions of random google images </li>
+<hr>
+
+<img src="Predictions/pred-2.jpeg" width="33%">  <img src="Predictions/pred-3.jpeg" width="33%">  <img src="Predictions/pred-4.jpeg" height="217" width="33%">
+<img src="Predictions/pred-5.jpeg" width="33%">  <img src="Predictions/pred-7.jpeg" height="218" width="33%">  <img src="Predictions/pred-10.jpeg" height="218" width="33%">
+<img src="Predictions/pred-8.jpeg" width="33%" height="218">  <img src="Predictions/pred-9.jpeg" height="217" width="33%">  <img src="Predictions/pred-6.jpeg" height="218" width="33%">
+
+<hr>

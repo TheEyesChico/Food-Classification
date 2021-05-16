@@ -47,8 +47,8 @@ It is contained in <i>app.py</i>
 ### <li> Predictions of random google images </li>
 <hr>
 
-<img src="Predictions/pred-2.jpeg" width="33%">  <img src="Predictions/pred-3.jpeg" width="33%">  <img src="Predictions/pred-4.jpeg" height="217" width="33%">
-<img src="Predictions/pred-5.jpeg" width="33%">  <img src="Predictions/pred-7.jpeg" height="218" width="33%">  <img src="Predictions/pred-10.jpeg" height="218" width="33%">
-<img src="Predictions/pred-8.jpeg" width="33%" height="218">  <img src="Predictions/pred-9.jpeg" height="217" width="33%">  <img src="Predictions/pred-6.jpeg" height="218" width="33%">
+<img src="Predictions/pred-2.jpeg" height="210" width="32%">  <img src="Predictions/pred-3.jpeg" height="210" width="32%">  <img src="Predictions/pred-4.jpeg" height="210" width="32%">
+<img src="Predictions/pred-5.jpeg" height="210" width="32%">  <img src="Predictions/pred-7.jpeg" height="210" width="32%">  <img src="Predictions/pred-10.jpeg" height="210" width="32%">
+<img src="Predictions/pred-8.jpeg" width="32%" height="210">  <img src="Predictions/pred-9.jpeg" height="210" width="32%">  <img src="Predictions/pred-6.jpeg" height="210" width="32%">
 
 <hr>

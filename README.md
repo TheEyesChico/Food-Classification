@@ -1,11 +1,11 @@
 # Image classification for Indian Food using Deep Learning
 
-Follow my kaggle [link]() for in-depth analysis with neural networks visualizations for activation layers and how heatmaps gets generated for model to recognize the image object.
+Follow my kaggle [link](https://www.kaggle.com/theeyeschico/food-classification-using-tensorflow) for in-depth analysis with neural networks visualizations for activation layers and how heatmaps are generated for model to recognize the image object.
 
 This project focuses on food classifier to classify 20 exotic Indian food items.<br>
 <b>Accuracy -</b> 90% for train and 95% for test dataset.
 
-The dataset can be found on [Kaggle.](https://www.kaggle.com/l33tc0d3r/indian-food-classification/)
+The dataset has been made by me and can be found [here.](https://www.kaggle.com/l33tc0d3r/indian-food-classification/)
 
 ## Process
 
